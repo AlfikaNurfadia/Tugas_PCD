@@ -4,9 +4,9 @@
 
 ### - Julita Hasanah (2110131120005)
 
-#
+<br>
 
-# <center style="color: blue; font-size:35px" > **CT SCAN**</center>
+# <center style="color: blue; font-size:35px" >CT SCAN</center>
 
 <center><image width=300px height=250px src= "https://pantirapih.or.id/rspr/wp-content/uploads/2021/04/CT-Scan-128-Slice-1536x1156-1-720x380.jpg" alt="gambar 
 CT Scan">
@@ -31,8 +31,6 @@ CT-Scan (computed tomography) pertama kali digunakan untuk diagnosa kedokteran p
 
 ## Peralatan CT-Scan
 
-<br>
-
 <image width=200px height=150px align=right src= "https://1.bp.blogspot.com/_RbQdqCkuAFQ/Swy840uzMWI/AAAAAAAAAeo/obiiQG6k7_A/s320/CT+Scan.jpg" alt="gambar 
 CT Scan" style="margin:10px">
 
@@ -43,7 +41,7 @@ CT Scan" style="margin:10px">
 - Komputer, TV-monitor berikut panel kontrol
   Meja pasien dan gantry scanning harus dapat menempatkan posisi pasien pada posisi yang tepat, akurat dan nyaman, sehingga dari proses rekonstruksi akan didapatkan hasil tomografi yang benar. Tegangan sinar-X yang digunakan bervariasi dari 50-150 kV dengan kuat arus antara 0-600 mA. Gambar bidang tomografi yang ditampilkan pada layar monitor komputer selanjutnya dapat dibuatkan film fotografi (seperti pada diagnostik konvensional), dicetak pada printer ataupun disimpan dalam disket (floppy disk).
 
-  <br>
+<br>
 
 ## Bagaimana Cara Kerjanya?
 
@@ -65,20 +63,12 @@ Pemeriksaan CT Scan berguna untuk memperlihatkan kelainan patologis organ tubuh 
 <image width=200px height=150px align=left src= "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzxCeW7ICIlJ3tzlqmJtYoXR8A2qlm33Xc0Q&usqp=CAU" alt="gambar 
 CT Scan" style="margin:20px">
 
-<br><br>
+<br>
 
 - Untuk melihat keadaan otak pada kasus pasien stroke dan cedera kepala. <br> <br>
 - Untuk melihat adanya tumor pada organ-organ tubuh, seperti: tumor otak, tumor paru-paru, tumor rongga perut dan sebagainya.
 
-<br><br>
-
-## Sistem CT SCAN
-
-CT Scanner terdiri atas tiga bagian:
-
-1. Sistem Pemroresan Citra
-2. Sistem Komputer dan Kendali
-3. Stasiun Operasi dan Stasiun Pengamat.
+<br>
 
 ## Pemroresan Data
 
