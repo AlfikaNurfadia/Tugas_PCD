@@ -21,7 +21,7 @@ Berdasarkan catatan dokumentasi GIMP, dapat kita telusuri bahwa terdapat tiga ma
 
 
 
-## Berikut Cara Implementasinya Menggunakan MATLAB
+## Berikut Cara Implementasinya Menggunakan OCTAVE
 <p align="center"><img src="img/grayscale.JPG">
 
 1. Lightness Method
