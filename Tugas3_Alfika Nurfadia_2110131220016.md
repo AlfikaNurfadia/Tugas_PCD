@@ -22,13 +22,13 @@ Berdasarkan catatan dokumentasi GIMP, dapat kita telusuri bahwa terdapat tiga ma
 
 
 ## Berikut Cara Implementasinya Menggunakan MATLAB
-<p align="center"><img src="img/grayscale.JPG" width="200px">
+<p align="center"><img src="img/grayscale.JPG">
 
 1. Lightness Method
-    <p align="center"><img src="img/lightness.JPG" width="200px">
+    <p align="center"><img src="img/lightness.JPG">
 1. Average Method
-    <p align="center"><img src="img/average.JPG" width="200px">
+    <p align="center"><img src="img/average.JPG">
 1. Luminosity Method
-    <p align="center"><img src="img/luminosity.JPG" width="200px">
+    <p align="center"><img src="img/luminosity.JPG">
 
 
