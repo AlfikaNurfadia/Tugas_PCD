@@ -91,7 +91,7 @@ membuat ilusi dari beberapa tingkat keabuan di dalam sebuah citra biner yang dal
 kenyataanya hanya terdiri dari dua tingkat abu-abu.<br><br>
 Untuk sebagian besar tujuan dithering, cukup menambahkan nilai ambang batas ke setiap piksel (tanpa melakukan normalisasi dengan mengurangi 1⁄2), atau secara setara, untuk membandingkan nilai piksel dengan ambang batas: jika nilai kecerahan piksel <b>kurang dari</b> nomor di sel matriks yang sesuai, plot piksel itu <b>hitam</b>, jika <b>tidak</b>, plot <b>putih.</b></p>
 
-<p align="center"><img src="img/tothering.JPG"></p><br><br>
+<p align="center"><img src="img/dithering.JPG"></p><br><br>
 
 ## Cara Menentukan Matriks Dither (Matriks Threshold)
 
