@@ -71,7 +71,7 @@ Contoh ini menghasilkan gambar halftone digital dari PAINTER menggunakan matriks
 <p align="center"><img src="img/figure4.5.JPG" width="200px">
 
 ---
-# Cara Menentukan Pola dari Patterning dan Dithering
+## Cara Menentukan Pola dari Patterning dan Dithering
 
 - Patterning
 
@@ -80,7 +80,7 @@ Contoh ini menghasilkan gambar halftone digital dari PAINTER menggunakan matriks
  Misalkan dari 4 x 4 font biner dapat menghasilkan 17 pola yang berbeda.<br>
  Pola yang ada pada patterning tidak boleh sama antara satu sama lain.</p>
 
- <p align="center"><img src="polapatterning.JPG"></p><br><br>
+ <p align="center"><img src="img/polapatterning.JPG"></p><br><br>
 
  - Dithering
 
@@ -91,7 +91,7 @@ membuat ilusi dari beberapa tingkat keabuan di dalam sebuah citra biner yang dal
 kenyataanya hanya terdiri dari dua tingkat abu-abu.<br><br>
 Untuk sebagian besar tujuan dithering, cukup menambahkan nilai ambang batas ke setiap piksel (tanpa melakukan normalisasi dengan mengurangi 1⁄2), atau secara setara, untuk membandingkan nilai piksel dengan ambang batas: jika nilai kecerahan piksel <b>kurang dari</b> nomor di sel matriks yang sesuai, plot piksel itu <b>hitam</b>, jika <b>tidak</b>, plot <b>putih.</b></p>
 
-<p align="center"><img src="tothering.JPG"></p><br><br>
+<p align="center"><img src="img/tothering.JPG"></p><br><br>
 
 # Cara Menentukan Matriks Dither (Matriks Threshold)
 
@@ -102,7 +102,7 @@ Nilai intensitas citra yang lebih dari atau sama dengan nilai threshold akan diu
 <p align="justify">
 Persamaan yang digunakan untuk mengkonversi nilai piksel citra grayscale menjadi biner pada metode thresholding adalah:</p>
 
-<p align="center"><img src="gxy.JPG"></p><br>
+<p align="center"><img src="img/gxy.JPG"></p><br>
 
 di mana<br>
 f(x,y) adalah citra grayscale<br>
