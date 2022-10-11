@@ -93,7 +93,7 @@ Untuk sebagian besar tujuan dithering, cukup menambahkan nilai ambang batas ke s
 
 <p align="center"><img src="img/tothering.JPG"></p><br><br>
 
-# Cara Menentukan Matriks Dither (Matriks Threshold)
+## Cara Menentukan Matriks Dither (Matriks Threshold)
 
 <p align="justify">
 Thresholding merupakan salah satu metode segmentasi citra di mana prosesnya didasarkan pada perbedaan derajat keabuan citra. Dalam proses ini dibutuhkan suatu nilai batas yang disebut nilai threshold. <br><br>
