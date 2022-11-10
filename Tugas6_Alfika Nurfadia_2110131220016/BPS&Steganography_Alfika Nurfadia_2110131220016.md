@@ -52,7 +52,7 @@ Tujuan dari steganografi adalah merahasiakan atau menyembunyikan keberadaan dari
 
 - Code pada octave untuk membuat steganography
 <p align="center"><img src="codestega1.JPG"></p>
-<p align="center"><img src="codestego2.JPG"></p><br>
+<p align="center"><img src="codestega2.JPG"></p><br>
 
 - Gambar awal
 <p align="center"><img src="gray.png"></p><br>
